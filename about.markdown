@@ -4,6 +4,7 @@ title: About
 permalink: /about/
 ---
 
+- [home](https://ryoo.cc)
 - [blog](https://blog.ryoo.cc)
 - [twitter](https://twitter.com/ryoo141)
 - [instagram](https://www.instagram.com/ryoo141/)
