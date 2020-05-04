@@ -14,8 +14,7 @@ minima:
     twitter: ryoo141
     github:  ryoo14
 
-site:
-  google_analytics: UA-47086708-1
+google_analytics: UA-47086708-1
 
 # Build settings
 theme: minima
