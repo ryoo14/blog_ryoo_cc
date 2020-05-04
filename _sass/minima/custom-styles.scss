@@ -4,3 +4,7 @@ hr {
   margin-top: 50px;
   margin-bottom: 50px;
 }
+
+.wrapper {
+  max-width: calc(1000px - (30px * 2))
+}
