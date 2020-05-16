@@ -16,6 +16,9 @@ minima:
 
 google_analytics: UA-47086708-1
 
+disqus:
+  shortname: ryoo14
+
 # Build settings
 theme: minima
 plugins:
