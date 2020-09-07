@@ -5,7 +5,7 @@
 }
 
 h1{
-  margin-bottom: 7.5px;
+  margin-bottom: 0px;
 }
 h2 {
   margin-top: 10px;
@@ -32,4 +32,14 @@ a:visited {
 .post-content h3 {
   font-size: 1.105rem;
   margin-top: 10px;
+}
+
+.author ul {
+  list-style: none;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+.post-cat {
+  margin-right: 5px;
 }
