@@ -5,11 +5,18 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
+    <ul class="post-meta">
+      <li>
+      {% for cat in page.categories %}
+        <span class="post-cat">{{ cat }}</span>
+      {% endfor %}
+      </li>
+      <li>
       {%- assign date_format = site.minima.date_format | default: "%Y-%m-%d %H:%M:%S" -%}
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
         {{ page.date | date: date_format }}
       </time>
+      </li>
       {%- if page.modified_date -%}
         ~ 
         {%- assign mdate = page.modified_date | date_to_xmlschema -%}
@@ -24,6 +31,7 @@ layout: default
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}</p>
+    </ul>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
