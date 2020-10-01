@@ -3,7 +3,7 @@ name: textlint
 on:
   pull_request:
     branches:
-    - review_textlint
+    - master
 
 jobs:
   build:
