@@ -5,6 +5,7 @@
     }
   },
   "rules": {
-    "preset-ja-technical-writing": true
+    "preset-ja-technical-writing": true,
+    "preset-jtf-style": true
   }
 }
