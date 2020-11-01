@@ -19,7 +19,7 @@ categories: monthly_contents
 - [ヴァイオレットエヴァーガーデン 9-10話](https://www.netflix.com/title/80182123?s=i&trkid=0)
 
 1話を観たのはいつだったか、いまだに全部消化できてない。  
-エピソードがいちいち秀逸だから観るのに時間かかるんだ。。11月中には観たい。
+エピソードがいちいち秀逸だから観るのに時間かかるんだ...11月中には観たい。
 
 
 ## 映画・小説
@@ -31,7 +31,7 @@ categories: monthly_contents
 - [エミリー、パリに行く 1-10話](https://www.netflix.com/title/81037371?s=i&trkid=255824129)
 
 1話30分のお手軽おフランスラブコメディ。  
-work it!だったか何かの主演女優さん。美人だなぁ。
+主演女優さん、めちゃくちゃ美人だなぁ。
 
 ## 学習・自己啓発
 - [The Rust Programming Laungage](https://doc.rust-jp.rs/book-ja/title-page.html)
@@ -39,4 +39,4 @@ work it!だったか何かの主演女優さん。美人だなぁ。
 途中まで。おもしろそうだから読んでる。
 
 ## そのほか
-今月は特になし！
+今月は特になし。
