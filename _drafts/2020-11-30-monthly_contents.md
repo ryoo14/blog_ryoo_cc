@@ -21,6 +21,7 @@ categories: monthly_contents
 次回はもっと可愛い人使っておもしろい脚本書いてくれ。
 
 
+
 ## 学習・自己啓発
 - [The Rust Programming Laungage](https://doc.rust-jp.rs/book-ja/title-page.html)
 
