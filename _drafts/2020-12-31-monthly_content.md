@@ -8,6 +8,10 @@ categories: monthly_contents
 
 ## アニメ・ゲーム
 
+- [ロミオの青い空 #14-]()
+
+- [鬼滅の刃 23巻]()
+
 ## 映画・小説
 
 - [すばらしい新世界](https://amzn.to/3lavsJu)
