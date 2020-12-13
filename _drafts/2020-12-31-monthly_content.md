@@ -8,7 +8,7 @@ categories: monthly_contents
 
 ## アニメ・ゲーム
 
-- [ロミオの青い空 #14-]()
+- [ロミオの青い空 #14-24]()
 
 - [鬼滅の刃 23巻]()
 
@@ -25,3 +25,7 @@ categories: monthly_contents
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 
 ## そのほか
+
+- [家電批評 2021年1月号]()
+
+ダイソンのコードレス掃除機とハイセンスの4kテレビが気になる。
