@@ -50,3 +50,15 @@ a:visited {
 .post-cat {
   margin-right: 5px;
 }
+
+.post-nav {
+	display: flex;
+}
+
+.post-nav div {
+	flex: 1 1 0;
+}
+
+.post-nav-next {
+	text-align: right;
+}
