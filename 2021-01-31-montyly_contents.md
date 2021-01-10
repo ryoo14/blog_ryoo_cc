@@ -22,6 +22,10 @@ categories: monthly_contents
 
 ## 映画・小説
 
+- [ブックスマート](https://www.netflix.com/title/81061054?s=i&trkid=250311567)
+
+
+
 - [きみと、波に乗れたら](https://amzn.to/385709i)
 
 最後まで観ることができなくて消化しきれてないけど記録として残しておく。  
