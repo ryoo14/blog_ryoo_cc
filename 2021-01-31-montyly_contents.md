@@ -19,7 +19,7 @@ categories: monthly_contents
 
 授業の課題であるレポートの代筆で稼ぐ女の子に、アメフト脳筋の男の子がラブレターの代筆を依頼するところから物語が始まる。
 
-- [ザサークル](https://www.netflix.com/watch/80098473)
+- [ザ・サークル](https://www.netflix.com/watch/80098473)
 
 - [きみと、波に乗れたら](https://amzn.to/385709i)
 
