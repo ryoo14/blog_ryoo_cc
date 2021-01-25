@@ -65,3 +65,5 @@ Clean Codeが非常に難しく、まずはこっち読んだほうが良さそ�
 iPad激推し号。やっぱりiPadは最高ね。
 
 - [iPadはかどる!仕事技2021](https://amzn.to/356S8oF)
+
+iPad Pro欲しくなる
