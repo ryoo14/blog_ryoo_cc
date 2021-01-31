@@ -7,13 +7,16 @@ categories: monthly_contents
 2021年1月のコンテンツ消費について書くぞ。
 
 ## アニメ・ゲーム・漫画
-<!-- textlint-disable no-doubled-joshi -->
+<!-- textlint-disable -->
+
 - [若者の黒魔法離れが深刻ですが、就職してみたら待遇いいし、社長も使い魔もかわいくて最高です! 5-6巻](https://amzn.to/3j0RtLr)
 
 全然落ちこぼれてないけど落ちこぼれ扱いを受けた主人公が黒魔法界で女の子とわちゃわちゃするちょっとえっちな漫画。登場するキャラが全員可愛いのでおすすめできる作品。
 
 - [冒険者になりたいと都に出て行った娘がSランクになってた 4巻](https://amzn.to/3r4hEUg)
-<!-- textlint-enable no-doubled-joshi -->
+
+<!-- textlint-enable -->
+
 結構前に数話無料で読んだらキャラデザが可愛くて単行本買ってしまったアレ。ストーリーは未だよくわからない。
 
 ## 映画・小説
