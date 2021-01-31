@@ -11,8 +11,5 @@
         "max": 8
       }
     }
-  },
-  "filter": {
-    "comments": true,
   }
 }
