@@ -5,7 +5,14 @@
     }
   },
   "rules": {
-    "preset-ja-technical-writing": true,
-    "preset-jtf-style": true
+    "preset-jtf-style": true,
+    "preset-ja-technical-writing": {
+      "max-kanji-continuous-len": {
+        "max": 8
+      }
+    }
+  },
+  "filter": {
+    "comments": true,
   }
 }
