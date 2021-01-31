@@ -10,7 +10,7 @@
       "max-kanji-continuous-len": {
         "max": 8
       }
-    },
+    }
   },
   "filter": {
     "comments": true,
