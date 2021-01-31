@@ -7,9 +7,12 @@
   "rules": {
     "preset-jtf-style": true,
     "preset-ja-technical-writing": {
-	    "max-kanji-continuous-len": {
-		    "max": 8
-	    }
-    }
+      "max-kanji-continuous-len": {
+        "max": 8
+      }
+    },
+  },
+  "filter": {
+    "comments": true,
   }
 }
