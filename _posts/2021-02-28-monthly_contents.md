@@ -8,6 +8,10 @@ categories: monthly_contents
 
 ## アニメ・ゲーム・漫画
 
+- [リィンカーネーションの花弁 11-13巻](https://amzn.to/3ru8TTx)
+
+- [便利屋斎藤さんシリーズ](https://amzn.to/3rud81E)
+
 
 ## 映画・小説
 
