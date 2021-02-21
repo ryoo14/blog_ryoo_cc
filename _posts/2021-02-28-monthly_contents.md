@@ -24,6 +24,8 @@ categories: monthly_contents
 
 もともとが狭すぎただけかもしれない。
 
+- [クイーンズ・ギャンビット 1-1](https://www.netflix.com/title/80234304?s=i&trkid=14751296)
+
 ## 学習・自己啓発
 - [The Rust Programming Laungage](https://doc.rust-jp.rs/book-ja/title-page.html)
 
