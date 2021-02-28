@@ -10,9 +10,23 @@ categories: monthly_contents
 
 - [リィンカーネーションの花弁 11-13巻](https://amzn.to/3ru8TTx)
 
+灰都さんが正気に戻った。かわいい。  
+アインシュタインがデレた。かわいい。
+
 - [便利屋斎藤さんシリーズ](https://amzn.to/3rud81E)
 
-- [UQ HOLDER!]()
+平凡に見せかけた有能異世界転生モノ。ラファンパンがとっても可愛い。
+
+- [UQ HOLDER! 24巻](https://amzn.to/3r6yZfG)
+
+ネギまが大好きだったからほぼ続編の本作も読んでるけど、本当にこれを描きたかったのだろうか。
+
+- [黒子のバスケ 1-30巻](https://amzn.to/2ZULwab)
+
+ピッコマで読み始めたらめちゃくちゃハマってしまって一気読みしてしまった。  
+あけだけ人気があったのにあっさり完結したのは今思っても凄いなぁと思う。
+
+リコが圧倒的に可愛いと思うんだけど桃井のほうが人気あるの？
 
 
 ## 映画・小説
@@ -24,17 +38,22 @@ categories: monthly_contents
 
 もともとが狭すぎただけかもしれない。
 
-- [クイーンズ・ギャンビット シーズン1 1−2](https://www.netflix.com/title/80234304?s=i&trkid=14751296)
+- [クイーンズ・ギャンビット シーズン1 1−5](https://www.netflix.com/title/80234304?s=i&trkid=14751296)
+
+海外のドラマに手を出してはいけないと理解しているはずが、サムネイルの[女優 アニャ・テイラー＝ジョイ](https://www.wwdjapan.com/articles/1146829)の美しさに負けて観始めてしまった。  
+孤児院で暮らす主人公ベスが地下室でチェスに出会って才能を開花させる。一方で安定剤を常用するようになって…というお話。  
+チェスで圧倒的な強さを発揮しながらも、幼さと境遇ゆえに少しずつ堕落していく様子が描かれている。と言いたいのだけど、まだ途中も途中なので堕落するかはわからない。
 
 
 ## 学習・自己啓発
 - [The Rust Programming Laungage](https://doc.rust-jp.rs/book-ja/title-page.html)
 
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
+テストの方法、コマンドラインツールの作り方、クロージャについて学んだ。  
+はやくこれ読み終えて歯車本読み始めたい。
 
-- [Team Geek]()
+- [Team Geek](https://amzn.to/37QlTeU)
 
-- [Clean Code](https://amzn.to/3ryiw4x)
-
+チームを運営する上で注意すること、意識すうことを知りたくて読み始めた。Google先生に聞けば間違いないと思って読み始めたけど、お風呂用Kindle Paperwhiteが壊れて頓挫中。
 
 ## そのほか
+特になし。
