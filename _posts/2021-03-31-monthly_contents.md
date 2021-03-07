@@ -9,6 +9,8 @@ categories: monthly_contents
 ## アニメ・ゲーム・漫画
 - [黒子のバスケ EXTRA GAME](https://amzn.to/3q2Ue0G)
 
+- [アオアシ 23巻]()
+
 本編後、夏のインターハイが終わったあとすぐくらいのお話。
 
 ## 映画・小説
