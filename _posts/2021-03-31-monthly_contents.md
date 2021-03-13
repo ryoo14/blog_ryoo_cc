@@ -15,6 +15,8 @@ categories: monthly_contents
 
 ## 映画・小説
 
+- [クイーンズ・ギャンビット シーズン1 1−5](https://www.netflix.com/title/80234304?s=i&trkid=14751296)
+
 ## 学習・自己啓発
 - [The Rust Programming Laungage](https://doc.rust-jp.rs/book-ja/title-page.html)
 
