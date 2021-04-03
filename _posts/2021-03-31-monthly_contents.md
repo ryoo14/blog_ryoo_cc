@@ -11,7 +11,9 @@ categories: monthly_contents
 
 本編後、夏のインターハイが終わったあとすぐくらいのお話。
 
-- [アオアシ 23巻]()
+- [アオアシ 23巻](https://amzn.to/39ExfUi)
+
+青森星蘭との決戦にアシトが出場する。
 
 - [ウマ娘 プリティーダービー #1-13](https://video.unext.jp/title/SID0034344)
 
@@ -26,19 +28,12 @@ Season 1があまりに面白かったので早速Season 2も観た。トウカ�
 
 ## 映画・小説
 
-- [クイーンズ・ギャンビット シーズン1 1−5](https://www.netflix.com/title/80234304?s=i&trkid=14751296)
-
 - [モキシー 私たちのムーブメント](https://www.netflix.com/title/81078393?s=i&trkid=14170035)
 
+Netfixオリジナル。海外の学園物大好きなので観たけど、凄いフェミニズムが強い映画だった。
+
 ## 学習・自己啓発
-- [The Rust Programming Laungage](https://doc.rust-jp.rs/book-ja/title-page.html)
-
-テストの方法、コマンドラインツールの作り方、クロージャについて学んだ。  
-はやくこれ読み終えて歯車本読み始めたい。
-
-- [Team Geek](https://amzn.to/37QlTeU)
-
-チームを運営する上で注意すること、意識すうことを知りたくて読み始めた。Google先生に聞けば間違いないと思って読み始めたけど、お風呂用Kindle Paperwhiteが壊れて頓挫中。
+特になし。
 
 ## そのほか
 特になし。
