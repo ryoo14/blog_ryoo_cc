@@ -14,7 +14,7 @@ categories: monthly_contents
 
 ## 映画・小説
 
-- [100日間のシンプルライフ](https://www.video.unext.jp/title/SID0052953)
+- [グッドボーイズ]()
 
 
 ## 学習・自己啓発
