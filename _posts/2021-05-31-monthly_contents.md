@@ -16,6 +16,8 @@ categories: monthly_contents
 
 - [グッドボーイズ]()
 
+- [スケートキッチン]()
+
 
 ## 学習・自己啓発
 - [ノンデザイナーズ デザインブック](https://amzn.to/3n0cAj4)
