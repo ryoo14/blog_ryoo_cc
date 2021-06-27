@@ -9,7 +9,7 @@ categories: monthly_contents
 ## アニメ
 - [ゾンビランドサガ #1-12](https://annict.jp/works/6159)
 - [ゾンビランドサガ リベンジ #1-11](https://annict.jp/works/6817)
-- [慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～ #1-8](https://annict.jp/works/6330)
+- [慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～ #1-12](https://annict.jp/works/6330)
 
 ## ゲーム
 - [マリオテニス エース](https://amzn.to/3wZLV9X)
