@@ -8,7 +8,7 @@ categories: monthly_contents
 
 ## アニメ
 - [ゾンビランドサガ #1-12](https://annict.jp/works/6159)
-- [ゾンビランドサガ リベンジ #1-11](https://annict.jp/works/6817)
+- [ゾンビランドサガ リベンジ #1-12](https://annict.jp/works/6817)
 - [慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～ #1-12](https://annict.jp/works/6330)
 
 ## ゲーム
@@ -24,6 +24,7 @@ categories: monthly_contents
 
 
 ## 映画
+今月はなし
 
 ## 小説
 - [三体](https://amzn.to/2UDlMj3)
