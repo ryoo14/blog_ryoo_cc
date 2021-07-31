@@ -4,7 +4,7 @@ title: 2021年7月のコンテンツ消費
 categories: monthly_contents
 ---
 
-2021年7月のコンテンツ消費について書くぞ。  
+2021年7月のコンテンツ消費について書くぞ。
 
 ## アニメ
 - [劇場版「Fate/stay night Heaven’s Feel」Ⅰ.presage flower](https://amzn.to/2WwML0C)
@@ -28,7 +28,7 @@ categories: monthly_contents
 ## ゲーム
 - [スプラトゥーン2](https://amzn.to/3febU6I)
 
-相変わらず飽きずにやってる。7月はどのルールもS+に到達することはできず、それどころか一時的に全ルールA+落ちた。  
+相変わらず飽きずにやってる。7月はどのルールもS+に到達できず、それどころか一時的に全ルールA+落ちた。  
 アサリがどうしてもSに上がれなくて泣いてる。
 
 ## 漫画
@@ -43,7 +43,7 @@ categories: monthly_contents
 9巻まで買ってしまったのでこれからも頑張って読み続ける。
 
 ## 映画
-今月はなし
+今月はなし。
 
 ## 小説
 - [三体](https://amzn.to/2UDlMj3)
