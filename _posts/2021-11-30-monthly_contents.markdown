@@ -14,7 +14,7 @@ categories: monthly_contents
 
 - [転生したらスライムだった件 第2期 第2部 #37-39](https://annict.com/works/7411)
 
-相変わらず俺TUEEしてて好き。  
+相変わらず俺TUEEしていて好き。  
 
 
 ## ゲーム
@@ -51,7 +51,7 @@ categories: monthly_contents
 - [無職転生 #16](https://amzn.to/3pteeeq)
 
 シルフィと目でたく結ばれました。最高。  
-こんなんもう毎日のように…
+こんなんもう毎日のように…。
 
 
 ## 映画
