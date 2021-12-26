@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2021年11月のコンテンツ消費
+title: 2021年12月のコンテンツ消費
 categories: monthly_contents
 ---
 
-2021年11月のコンテンツ消費について書くぞ。
+2021年12月のコンテンツ消費について書くぞ。
 
 ## アニメ
 - [白い砂のアクアトープ #17](https://annict.com/works/7922)
