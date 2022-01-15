@@ -7,7 +7,7 @@ categories: monthly_contents
 2022年1月のコンテンツ消費について書くぞ。
 
 ## アニメ
-- [takt op.Destiny #1-3](https://annict.com/works/8180)
+- [takt op.Destiny #1-12](https://annict.com/works/8180)
 
 
 ## ゲーム
@@ -16,7 +16,7 @@ categories: monthly_contents
 
 ## 漫画
 
-- [呪術廻戦 #1-8](https://amzn.to/3sHaRnm)
+- [シガレット＆チェリー #1-11](https://amzn.to/3Ic1kth)
 
 
 ## 映画
