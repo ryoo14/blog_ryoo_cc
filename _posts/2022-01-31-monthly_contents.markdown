@@ -11,7 +11,7 @@ categories: monthly_contents
 - [takt op.Destiny #1-12](https://annict.com/works/8180)
 
 年始に一気に観た。映像超美麗。ストーリーイマイチ。というかよくわからない。  
-巨人ちゃんのキャラデザ最高＆声優さんが[白い砂のアクアトープ #18-24](https://annict.com/works/7922)と同じく伊藤美来さんでめちゃかわいい。好き。
+巨人ちゃんのキャラデザ最高＆声優さんが[白い砂のアクアトープ](https://annict.com/works/7922)と同じく伊藤美来さんでめちゃかわいい。好き。
 
 - [異世界食堂2 #1-4](https://annict.com/works/8402)
 
