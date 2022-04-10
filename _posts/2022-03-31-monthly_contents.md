@@ -8,49 +8,51 @@ categories: monthly_contents
 2022年3月のコンテンツ消費について書くぞ。
 
 ## アニメ
-- [明日ちゃんのセーラー服 #4-7](https://annict.com/works/8179)
 
+- [明日ちゃんのセーラー服 #8-11](https://annict.com/works/8179)
+- [その着せ替え人形は恋をする #8-11](https://annict.com/works/8365)
 
-- [異世界食堂2 #5-11](https://annict.com/works/8402)
-
-
-- [その着せ替え人形は恋をする #1-7](https://annict.com/works/8365)
-
+どちらも最終話を残すのみ。2期あるといいな。  
+とにかく作画が素晴らしいので、それだけで観る価値がある。
 
 
 ## 漫画
 
-- [“かわいい”はキミのもの #1-2](https://amzn.to/3IOb9hw)
+- [オタクに優しいギャルはいない!? #1](https://amzn.to/3KuqapM)
 
+オタクxギャルの作品は結構あるけど、ダントツでおもしろい。  
+キャラは可愛くて魅力的、エピソードも突拍子なさすぎずかつ扇情的でとても良い。
 
-- [サラリーマンが異世界に行ったら四天王になった話 #1-4](https://amzn.to/34k7Obc)
+- [葬送のフリーレン #7](https://amzn.to/37y1k9M)
 
+1級試験終了。相変わらずのんびりと旅が進んでいて良い作品。
 
-- [3月のライオン #1](https://amzn.to/377ADZp)
+- [アオアシ #27](https://amzn.to/3JlanrS)
+
+青森星蘭戦終了。いよいよアシトが覚醒して、今後の展開がより楽しみになった。
 
 
 ## ゲーム
+
 - [スプラトゥーン2](https://amzn.to/3febU6I)
 
+相も変わらず。
 
 
 ## 映画
-- [ルームロンダリング](https://filmarks.com/movies/77484)
 
-
-- [JUNK HEAD](https://filmarks.com/movies/74863)
-
-
-- [エール!](https://filmarks.com/movies/61098)
+今月はなし
 
 
 ## 小説
 
-- [三体2 黒暗森林下 死神永生上](https://amzn.to/3pASChJ)
+- [三体3 死神永生下](https://amzn.to/3usbn9e)
 
+地球の今後について、重大な局面。
 
 
 ## 学習・自己啓発
 
 - [メタプログラミングRuby](https://amzn.to/3IOjq5h)
 
+やっと読み終わりそう。メタプログラミングの手法を知ってもそれを活用できるかどうかは別の問題。
