@@ -41,7 +41,7 @@ categories: monthly_contents
 
 ## 映画
 
-今月はなし
+今月はなし。
 
 
 ## 小説
