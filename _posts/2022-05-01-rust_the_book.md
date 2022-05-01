@@ -22,3 +22,19 @@ https://github.com/ryoo14/lang_test/tree/main/rust/the_book/number
 # 3.一般的なプログラミングの概念
 
 https://github.com/ryoo14/lang_test/tree/main/rust/the_book/general
+
+## 3.1.変数と可変性
+
+- 標準で不変
+- 可変にしたい場合は`let mut hoge`のように`mut`が必要
+- 変数の変更が原因のバグは原因特定が難しい
+- そのためRustは変数を不変とすることでバグの可能性を減らし、どこでどのように値が変更されているかを追跡する必要をなくしている
+- `mut`で可変とする場合も読者にその意図を汲ませることができる
+- 以下のような書き方をすれば不変のまま値を変え、さらに変数の型も変えることができる
+
+```rust
+let x = "hoge";
+let x = x.len();
+```
+
+## 3.2.データ型
