@@ -1,13 +1,13 @@
-title: 黒縁眼鏡は海を飛ぶ
+title: ゆーかんざっき
 author:
   name: ryoo14
   homepage:
-    title: 黒縁眼鏡のお休み処
-    url: https://ryoo.cc
+    title: 悠々閑々生活
+    url: https://uukk.life
 description: >- # this means to ignore newlines until "baseurl:"
   ざっき
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.ryoo.cc" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.uukk.life" # the base hostname & protocol for your site, e.g. http://example.com
 timezone: Asia/Tokyo
 minima:
   social_links:
