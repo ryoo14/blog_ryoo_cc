@@ -60,9 +60,9 @@ categories: monthly_contents
 
 エリアX達成。ありがとうスプラトゥーン2。
 
-https://twitter.com/ryoo141/status/1554438021428420609?s=20&t=pP-HqXPaWOSA9I1zGQa2tw
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">やったぜ <a href="https://t.co/tv01idkCAw">pic.twitter.com/tv01idkCAw</a></p>&mdash; りょー (@ryoo141) <a href="https://twitter.com/ryoo141/status/1554438021428420609?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-https://twitter.com/ryoo141/status/1554454198908923904?s=20&t=pP-HqXPaWOSA9I1zGQa2tw
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">計測もおわったし満足したので引退します <a href="https://t.co/q80Oi28ypw">pic.twitter.com/q80Oi28ypw</a></p>&mdash; りょー (@ryoo141) <a href="https://twitter.com/ryoo141/status/1554454198908923904?ref_src=twsrc%5Etfw">August 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## 学習・自己啓発
